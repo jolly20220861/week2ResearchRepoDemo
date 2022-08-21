@@ -1,5 +1,3 @@
-# Week 2 Research repository
-
 # 🆆🅴🅴🅺🅻🆈 🆁🅴🅵🅻🅴🅲🆃🅸🆅🅴 🅹🅾🆄🆁🅽🅰🅻
 
 ## [Week 1: **Introduction with Scratch**](https://jolly20220861.github.io/Week1)
@@ -32,3 +30,7 @@ Thank God, the discussion is over.  I appreciate Sarmad's lecture. I know I und
 <br>
 
 ## [Week 4: Art vs Programming](https://jolly20220861.github.io/Week4)
+
+
+
+**_Please feel free to check my complete [Software Development](https://jolly20220861.github.io) learning adventure._**
