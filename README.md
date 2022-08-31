@@ -12,6 +12,7 @@ Encountering Scratch for the first time is a bit challenging. I followed the ins
 
 To be able to copy the respondent's answer, set the variable and concatenate. I set the variable name = answer which I joined with my own text "It's nice to meet you, (name)".  
 ![image](https://user-images.githubusercontent.com/110364984/187790306-142e37de-f697-45ab-8b48-ae127a719a61.png)
+
 The tutorial showed how I can create a background which is easy as I only have to choose from the options provided.  I learned that you can add a sprite (character) to make a conversation which I tried. 
 
 I was able to make my first "Hello World" project.  I thought to myself, I can handle it so I looked forward to making it to the next session.
@@ -28,7 +29,7 @@ I read the module and did my own research. I was able to create my repository in
 
 #### Learning:
 
-Today, I learned to upload an image, create links to add a page.  My favourite mark down aside from the different headers are underscore before and after the word or sentence to  _italicise_ and the two asterisk for **bold** letters.  By the way my youngest who's only 10 taught me to use the font changer site. He typed Weekly Reflection, choose the font, copied it from the font changer and pasted it to my GitHub .md file. Voila! My repository now has a life! :)
+Today, I learned to upload an image; just copy the image from any source and paste it in the markdown. You can also click and drag the phtos if the image is locally saved in your computer. I found out how to create links to add a page by writing the title of the link inside [] and use insert the link in the () .  My favourite mark down aside from the different headers are underscore before and after the word or sentence to  _italicise_ and the two asterisk for **bold** letters.  By the way my youngest who's only 10 taught me to use the font changer site. He typed Weekly Reflection, choose the font, copied it from the font changer and pasted it to my GitHub .md file. Voila! My repository now has a life! :)
 
 Hmmm... I can try to move further more and see how deep I can go....
 
@@ -98,6 +99,9 @@ The highight of the day is knowing that I am not way behind as my religious upda
 
 The test of patience and the road to perseverance.  It's my initiative to dip in the water thinking that I will be taught the steps on how to manoeuvre the water but to my dismay, it wasn't.  I feel like I'm on my own yet I am surviving. I don't know how deep the water is, all I know is that I can still breathe, I am alive, and am ready to explore more.  Should I opt for the traditional way of learning to swim which may take years or enjoy the unconventional and still be skilful? 
 After reflecting, I appreciated the test-driven development we're doing with the Python_koans.  It hones my observation skills and lets me use my creativity logically.  The course may be over but I have something to work on to let me keep on practising as the adage says _**"practice makes perfect.**_
+
+![image](https://user-images.githubusercontent.com/110364984/187804132-565f8037-9c40-4331-b0ba-e22bd8253dde.png)
+
 
 ## Conclusion:
 
