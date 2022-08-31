@@ -62,7 +62,7 @@ Time flies! It's already the 4th week. One month nearly passed. I am surviving, 
 
 Today, we are learning something new again. That is good but I feel like everything is piling up. Hearing new terminologies such as DallE and block chain. I have new list to research. But, I can think of it later, I'd rather focus on the activity to give me a break.
 
-Being the subject of a video made me self-conscious not only on how I will look on the video but also on the thought of "am I going to greatly contribute on the effectiveness of the video"? It also gave me awareness to observe on how people are reacting on the activity which made me notice my self-worth, that without me the project will not be possible for others and vise versa. It's a domino effect. I am afraid to ruin it that I was attached to my phone more than to my image.
+Being the subject of a video made me self-conscious not only on how I will look on the video but also on the thought of _"am I going to greatly contribute on the effectiveness of the video"?_ It also gave me awareness to observe on how people are reacting on the activity which made me notice my self-worth, that without me the project will not be possible for others and vise versa. It's a domino effect. I am afraid to ruin it that I was attached to my phone more than to my image.
 
 In spite of it all, I loved the activity as it gave me confirmation of my decision to take the course. IT isn't my thing but I jumped in because I know that I have to learn to grow with the technology as it will already be part of our lives no matter what.
 
@@ -80,13 +80,23 @@ Treading in the water is quite tiring perhaps I can try a different style of swi
 
 I was excited with the session but unfortunately I can't join the team at the Uni as I am stuck with my youngest at home. The good thing is that, we did the spaghetti with marshmallow activity when I was chosen to be part of the leadership training at work.  It was fun as you will have to coordinate with each members that will allow you to notice how everyone has their own leadership style.  This time, the activity taught us how to prototype.  By following the instructions, it's a balance between the limitations and the objective of winning for making the tallest tower.  Unconsciously, it made us think of the features that we need to consider to make sure that the tower will stand, sturdy enough while it goes higher.  Will Romn buy the idea of the tower made?
 
+#### Learning:
+
+Today's discovery is **Polymorphism** which means having many forms.  In programming, it’s the ability of a message to be presented or displayed in different structure. Like the materials used in the activity, it were used in various ways all arrivig at the same goal, have the tallest tower. The activity s also a way of creting **MVP (Minimum Variable Product)**; a way of a team to come up with a product that has the basic feature that they think will be useful for the users to identify how the customer will behave in the launch of the product. Will they patronise it? If yes, are the features enough or they're still looking for something more? If no, why? What needs tdo they have that must be met so they can accept the product being launched.
+
+This method allows the company to produce a product for testing with minimal cost and better understand the customer's behaviour rather than conducting a market research such as survey that can all be hypothetical.
+
+![image](https://user-images.githubusercontent.com/110364984/187798708-df1c93dd-bb41-44ab-8aae-d2969d4956f0.png)
+
+During these past few weeks of learing, there is a crial voice in my head t elling me everything is difficult. It's not my specialty. I believe what it said but I counter it by veering away from the thought that it is difficult.  I reminded myself of the words of wisdom I always share with my kids when they are challenged with a task: _”If you think it’s difficult, the more that it will be difficult."_
+
 The highight of the day is knowing that I am not way behind as my religious update of the weekly activities and topics paid off. Without me knowing it, I have already came up with my project for submission.  I prefer to finish the weeks and complete all the learning and reflection prior handing it over.  My journal anyway is intended not only for the sake of the project but also for me to have something to look back should I get lost or stuck as I pursue my development journey.
 
 <br>
 
 ## [Week 6: Python_koans](https://jolly20220861.github.io/Week6)
 
-The test of patience and the road to perseverance.  It's my initiative to dip in the water thinking that I will be taught the steps on how to manoeuvre the water but to my dismay, I wasn't.  I feel like I'm on my own yet I am surviving. I don't know how deep the water is, all I know is that I can still breathe, and am ready to explore more.  Should I opt for the traditional way of learning to swim which may take years or enjoy the unconventional and still be skilful? 
+The test of patience and the road to perseverance.  It's my initiative to dip in the water thinking that I will be taught the steps on how to manoeuvre the water but to my dismay, it wasn't.  I feel like I'm on my own yet I am surviving. I don't know how deep the water is, all I know is that I can still breathe, I am alive, and am ready to explore more.  Should I opt for the traditional way of learning to swim which may take years or enjoy the unconventional and still be skilful? 
 After reflecting, I appreciated the test-driven development we're doing with the Python_koans.  It hones my observation skills and lets me use my creativity logically.  The course may be over but I have something to work on to let me keep on practising as the adage says _**"practice makes perfect.**_
 
 ## Conclusion:
@@ -185,13 +195,6 @@ I did.  Most often I find what is written easy to understand when I already watc
 #### Which parts of the work did you find tedious?
 
 The python codes and the python koans are the most tedious part of the work for me.
-
-#### What is polymorphism?
-
-**Polymorphism** means having many forms.  In programming, it’s the ability of a message to be presented or displayed in different forms.
-#### Did you hear a self-critical voice in your head throughout the process of learning during these last few weeks? What did it say to you? Do you believe what it said?
-
-Yes, it’s telling me that it’s difficult.  I believe what it said but I counter it by veering away from the thought that it is difficult.  I go back to what I keep telling my kids, _”If you think it’s difficult, the more that it will be difficult._
 
 #### What is an MVP? How would you describe it to a group of 6-year-olds?
 
