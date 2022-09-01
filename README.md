@@ -103,7 +103,7 @@ After reflecting, I appreciated the test-driven development we're doing with the
 ![image](https://user-images.githubusercontent.com/110364984/187804132-565f8037-9c40-4331-b0ba-e22bd8253dde.png)
 
 
-## Conclusion:
+## [Conclusion:](https://jolly20220861.github.io/Conclusion)
 
 As the course is nearing its completion, below is the summary of all the learnings and reflection I had which made the course more worthwhile: 
 
@@ -258,5 +258,30 @@ No, but I do it occasionally as my watch would normally notify me to pause for a
 
 I believe I am beginning to have the habit of persevering.
 
+###### References:
 
+###### Aside from the links and videos provided, I checked these links, too:
+
+###### Timeboxing
+  https://www.lucidchart.com/blog/what-is-timeboxing
+###### Polymorphism
+
+  https://www.geeksforgeeks.org/polymorphism-in-c/
+###### Agile / MVP
+
+  https://www.agilealliance.org/glossary/mvp/#q=~(infinite~false~filters~(tags~(~'mvp))~searchTerm~'~sort~false~sortDirection~'asc~page~1)
+###### Growth Mindset
+
+  https://www.renaissance.com/edword/growth-mindset/
+
+  
+  <br>
+ 
+  
+  
+  
+  
+  
+  <br>
+  
 **_Please feel free to check my complete [Software Development](https://jolly20220861.github.io) learning adventure._**
